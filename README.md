@@ -12,7 +12,7 @@
 
 <div align="center">
     <h2>🛠️ My tech stack 🛠️</h2>
-    <img src="https://skillicons.dev/icons?i=c,python,git,vscode,vim,github,markdown,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=c,java,python,git,vscode,vim,github,markdown,linux,windows" />
 </div>
 
 <div align="center">
