@@ -12,15 +12,10 @@
 
 <div align="center">
     <h2>🛠️ My tech stack 🛠️</h2>
-
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,latex,markdown" />
-  
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,latex,markdown&perline=7" />
     <img src="https://skillicons.dev/icons?i=neovim,idea,vscode,obsidian" />
-  
     <img src="https://skillicons.dev/icons?i=windows,arch,ubuntu,debian" />
-  
     <img src="https://skillicons.dev/icons?i=cmake,git" />
-  
     <img src="https://skillicons.dev/icons?i=gitlab,github" />
 </div>
 
