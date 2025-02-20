@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pseja.pseja" />
+<img align="right" src="https://wakatime.com/badge/user/c887f141-8d2a-47df-b46f-fb410daac7d2.svg" /><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pseja.pseja" />
 
 ## 👋 Hello there!
 <div align="center">
