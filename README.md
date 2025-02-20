@@ -29,7 +29,7 @@
     </div>
     <div align="center">
         <a href="https://wakatime.com/@pseja">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pseja" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pseja&layout=compact&theme=tokyonight" />
         </a>
     </div>
 </div>
