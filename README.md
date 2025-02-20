@@ -15,6 +15,8 @@
     <img src="https://skillicons.dev/icons?i=c,java,python,git,vscode,vim,github,markdown,linux,windows" />
 </div>
 
+[![Pseja's GitHub stats](https://github-readme-stats.vercel.app/api?username=pseja&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
     <h2>📫 How to reach me:</h2> 
     <a href="https://discordapp.com/users/267037763231154177">
