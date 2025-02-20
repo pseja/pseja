@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pseja.pseja" /><a href="https://wakatime.com/@c887f141-8d2a-47df-b46f-fb410daac7d2"><img align="right" src="https://wakatime.com/badge/user/c887f141-8d2a-47df-b46f-fb410daac7d2.svg" alt="Total time coded since May 22 2024" /></a>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pseja.pseja" /><a href="https://wakatime.com/@pseja"><img align="right" src="https://wakatime.com/badge/user/pseja.svg" alt="Total time coded since May 22 2024" /></a>
 
 ## 👋 Hello there!
 <div align="center">
