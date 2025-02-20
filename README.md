@@ -12,13 +12,16 @@
 
 <div align="center">
     <h2>🛠️ My tech stack 🛠️</h2>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,latex,markdown" />
-        <img src="https://skillicons.dev/icons?i=neovim,idea,vscode,obsidian" />
-        <img src="https://skillicons.dev/icons?i=windows,arch,ubuntu,debian" />
-        <img src="https://skillicons.dev/icons?i=cmake,git" />
-        <img src="https://skillicons.dev/icons?i=gitlab,github" />
-    </div>
+
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,latex,markdown" />
+  
+    <img src="https://skillicons.dev/icons?i=neovim,idea,vscode,obsidian" />
+  
+    <img src="https://skillicons.dev/icons?i=windows,arch,ubuntu,debian" />
+  
+    <img src="https://skillicons.dev/icons?i=cmake,git" />
+  
+    <img src="https://skillicons.dev/icons?i=gitlab,github" />
 </div>
 
 <a href="https://wakatime.com/@pseja">
