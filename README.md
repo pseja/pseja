@@ -15,9 +15,9 @@
     <img src="https://skillicons.dev/icons?i=c,java,python,git,vscode,vim,github,markdown,linux,windows" />
 </div>
 
-<div>
-    [![Pseja's GitHub stats](https://github-readme-stats.vercel.app/api?username=pseja&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pseja?layout=compact" />
+</a>
 
 <div align="center">
     <h2>📫 How to reach me:</h2> 
