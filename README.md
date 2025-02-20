@@ -13,7 +13,7 @@
 <div align="center">
     <h2>🛠️ My tech stack 🛠️</h2>
     <div align="center">
-        <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,latex,markdown&perline=7" />
+        <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,latex,markdown,html,css,js" />
     </div>
     <div align="center">
         <img src="https://skillicons.dev/icons?i=neovim,idea,vscode,obsidian" />
