@@ -27,11 +27,14 @@
     <div align="center">
         <img src="https://skillicons.dev/icons?i=gitlab,github" />
     </div>
+    <div align="center">
+        <a href="https://wakatime.com/@pseja">
+            <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pseja?layout=compact&theme=tokyonight" />
+        </a>
+    </div>
 </div>
 
-<a href="https://wakatime.com/@pseja">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pseja?layout=compact&theme=tokyonight" />
-</a>
+
 
 <div align="center">
     <h2>📫 How to reach me 📫</h2>
