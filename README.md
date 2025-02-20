@@ -12,7 +12,7 @@
 
 <div align="center">
     <h2>🛠️ My tech stack 🛠️</h2>
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,latex,cmake,git,gitlab,vscode,neovim,obsidian,idea,github,markdown,linux,windows,arch,ubuntu,debian" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,latex,cmake,git,gitlab,vscode,neovim,obsidian,idea,github,markdown,linux,windows,arch,ubuntu,debian&perline=5" />
 </div>
 
 <a href="https://wakatime.com/@pseja">
