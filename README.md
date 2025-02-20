@@ -12,7 +12,7 @@
 
 <div align="center">
     <h2>🛠️ My tech stack 🛠️</h2>
-    <img src="https://skillicons.dev/icons?i=c,java,python,git,vscode,vim,github,markdown,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,latex,cmake,git,gitlab,vscode,neovim,obsidian,idea,github,markdown,linux,windows,arch,ubuntu,debian" />
 </div>
 
 <a href="https://wakatime.com/@pseja">
@@ -20,7 +20,7 @@
 </a>
 
 <div align="center">
-    <h2>📫 How to reach me:</h2> 
+    <h2>📫 How to reach me 📫</h2>
     <a href="https://discordapp.com/users/267037763231154177">
 		<img src="https://img.shields.io/badge/pseja-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=7289DA&labelColor=232339" alt="Discord">
 	</a>
