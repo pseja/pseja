@@ -15,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=c,java,python,git,vscode,vim,github,markdown,linux,windows" />
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://wakatime.com/@pseja">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pseja?layout=compact&theme=tokyonight" />
 </a>
 
