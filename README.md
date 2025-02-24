@@ -10,6 +10,8 @@
     </picture>
 </div>
 
+![Pseja's GitHub stats](https://github-readme-stats.vercel.app/api?username=pseja&show_icons=true&theme=radical)
+
 <div align="center">
     <h2>🛠️ My tech stack 🛠️</h2>
     <div align="center">
